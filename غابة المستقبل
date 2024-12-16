@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>موقعي الأول</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            color: #333;
+            padding: 20px;
+        }
+        h1 {
+            color: #007BFF;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>مرحباً بك في موقعي الإلكتروني!</h1>
+    <p>هذا مثال لموقع إلكتروني بسيط مكتوب بلغة HTML.</p>
+    <a href="https://www.example.com">رابط إضافي</a>
+</body>
+</html>
